@@ -1,0 +1,12 @@
+.overlay{
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+.info{
+    text-align: center;
+    background-color: gray;
+}
